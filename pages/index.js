@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Hello Everyone! My Name Is Adrian Sagum!</p>
     <h1>10 Things That Require Zero Talent</h1>
-    <h4>1. Being On Time</h4>
+    <li>1. Being On Time</li>
     <li>2. Making An Effort</li>
     <li>3. Being High Energy</li>
     <li>4. Having A Positive Attitude</li>
